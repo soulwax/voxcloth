@@ -1,0 +1,11 @@
+name: voxcloth
+description: "Pure Dart Extended Position-Based Dynamics (XPBD) solver for cloth grids, ropes, bending constraints, aerodynamic wind forces, and capsule/sphere collision."
+version: 0.1.0
+repository: https://github.com/soulwax/voxcloth
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.25.0
