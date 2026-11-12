@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" width="88" alt="voxcloth logo"/>
+</p>
+
 # voxcloth
 
 Pure Dart Extended Position-Based Dynamics (XPBD) cloth & rope solver.
